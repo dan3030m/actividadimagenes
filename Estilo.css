@@ -1,0 +1,20 @@
+body {
+  background-image: url("Bandera.jpg");
+}
+h1 {
+  text-align: center;
+  font-size: 80px;
+}
+h2 {
+  text-align: center;
+  font-size: 60px;
+}
+p {
+  font-size: 50px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
